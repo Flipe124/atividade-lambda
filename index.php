@@ -10,7 +10,7 @@
 <body>
     <div class="box">
         <div class="box-img">
-            <img id="img-box" src="https://www.genexus.com/media/images/github-logo-2-imagen.jpg?timestamp=20190527124425" alt="" srcset="">
+            <img id="img-box" src="https://www.genexus.com/media/images/github-logo-2-imagen.jpg?timestamp=20190527124425" alt="Logo GitHub">
         </div>
         <form method="POST" action="">
             <label id="label-username" for="username">Nome de usuário do GitHub:</label>

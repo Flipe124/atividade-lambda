@@ -1,5 +1,7 @@
 <h1> Lambda no Google Cloud <img width="30px" src="https://cdn-icons-png.flaticon.com/128/8575/8575900.png"></h1>
 
+<img src="./img/Interface.png">
+
 ![](https://img.shields.io/badge/-introdução-blueviolet?style=for-the-badge)
 
  Este código em PHP é um exemplo simples de como obter a quantidade de seguidores de um usuário do GitHub usando a API do GitHub.

@@ -27,4 +27,4 @@ Este código ilustra uma maneira simples de fazer a chamada à API do GitHub em 
 
 - ![](https://img.shields.io/badge/Google-Cloud-blue)
 <br>
-- ![](https://img.shields.io/badge/-PHP-blueviolet)
+- ![](https://img.shields.io/badge/PHP-blueviolet)

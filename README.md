@@ -45,8 +45,6 @@ echo "O usuário $username possui $resultado seguidores.";
 
 - Certifique-se de substituir "nome_de_usuario" pelo nome de usuário desejado.
 
-- Essa é apenas uma estrutura básica para a documentação da função Lambda. Lembre-se de adaptar e adicionar informações específicas do seu código e projeto para fornecer uma documentação clara e completa.
-
 <br>
 
 ![](https://img.shields.io/badge/-ferramentas%20utilizadas-orange?style=for-the-badge)
